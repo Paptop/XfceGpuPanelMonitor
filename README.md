@@ -4,7 +4,7 @@ A very simple gpu monitor for Xfce panel, based on basic xfce generic monitor
 ## Dependencies
 * python3 required
 * gpustat https://github.com/wookayin/gpustat required to be installed
-* numpy required to be installed
+* numpy, colorsys required to be installed
 
 ## Installation
 1) Create an xfce panel and add a "Generic Monitor" plugin
