@@ -19,6 +19,9 @@ A very simple gpu monitor for Xfce panel, based on basic xfce generic monitor
 
 ![Example 2](/images/GenericMonitorExample.png)
 
+command - path to the gpustat.sh goes here
+label - write gpu, untick it if you don't need it
+
 ## Result
 ![Example result](/images/Monitor.png)
 
