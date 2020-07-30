@@ -23,9 +23,7 @@ class GpuStat:
         return '#%02x%02x%02x' % ( int(color_rgb[0] * 255), int(color_rgb[1] * 255), int(color_rgb[2] * 255))
 
     def update_color(self):
-        print(self.value)
         self.value = self.transform(self.value)
-        print(self.value)
         self.color = lerp(Colors.GREEN, Colors.RED, self.value)
 
 
