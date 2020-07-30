@@ -13,5 +13,4 @@ A very simple gpu monitor for Xfce panel, based on basic xfce generic monitor
 4) Open the "Generic Monitor" settings and enter the full path to the gpustat.sh file
 5) Configure the update interval based on your system speed
 
-Result
 ![Example result](/Monitor.png)
