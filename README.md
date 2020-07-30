@@ -11,13 +11,15 @@ A very simple gpu monitor for Xfce panel, based on basic xfce generic monitor
 ![Example 1](/images/GenericMonitor.png)
 2) Clone the repository to a desired destination
 3) Make an executable the gpustat.sh file (chmod +x)
-4) Open the "Generic Monitor" settings and enter the full path to the gpustat.sh file
+4) Open the "Generic Monitor" settings and enter the full path of the gpustat.sh file
 5) Configure the update interval based on your system speed
 
 ![Example 2](/images/GenericMonitorExample.png)
 
 ## Result
 ![Example result](/images/Monitor.png)
+
+(1.5 update interval and Moto Sans with 11 size is used)
 
 ## Example of xfce panel
 ![Example result](/images/Example.png)
